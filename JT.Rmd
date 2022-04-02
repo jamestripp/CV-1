@@ -1,0 +1,151 @@
+---
+name: James Tripp
+position: "Senior Research Software Engineer, University of Warwick"
+phone: +44 7493 441 232
+email: "James.Tripp@outlook.com"
+twitter: jamestripp_
+github: jamestripp
+linkedin: jamestripp
+headcolor: 414141
+date: "`r format(Sys.time(), '%B %Y')`"
+output: 
+  vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+library(tidyr)
+library(dplyr)
+library(readr)
+library(glue)
+library(tibble)
+library(lubridate)
+library(here)
+library(scales)
+```
+
+I am a technologist and cognitive scientist with a strong background in empirical experimental methods and data analysis. I have taught and used a variety of tools including natural language processing, machine learning, social media analysis, visualisation and geospatial analysis. I work with both the Python and R programming languages, and have recently been using and helping to design cloud services. Throughout my career I have delighted in adopting and understanding new methods and approaches to support others and address both technical and data challenges. I am passionate about the use of technical methods, data analytics and large scale ML techniques for the public good.
+
+# Relevant Skills
+
+Machine learning, Frequentist and Bayesian Statistics, Cognitive Modelling, Experimental Design, Visualisation, NLP, GIS. Teaching and coaching academics, Masters and PhD students. Programming in Python, R and Matlab. Azure services including VMs and APIs.CI/CO pipelines.
+
+
+# Education
+**<span style="font-size:1em;">University of Warwick</span>** \hfill _Coventry, UK_  
+Ph.D. in Psychology \hfill _2013_
+
+-   Comparing cognitive models using Maximum likelihood and Bayesian parameter estimation
+-   Designing, programming and carrying out Psychology experiments
+-   Teaching statistics and programming to Masters and Undergraduate students
+
+**<span style="font-size:1em;">University of Warwick</span>** \hfill _Coventry, UK_  
+B. Sc.(Hons) in Psychology \hfill _2010_
+
+
+
+# Experience
+**<span style="font-size:1em;">Information and Digital Group @ University of Warwick</span>** \hfill _Coventry, UK_   
+Senior Research Software Engineer \hfill _Oct 2021 - Present_  
+
+I am currently part of a central team working with academic and technical staff across the University of Warwick.
+
+  - Helping build common infrastructure and services which solve challenges faced by multiple departments (e.g., computational platforms such as JupyterHub on Kubernetes and Open OnDemand). These solutions are built upon our new Azure tenancy.
+  - Identifying and supporting good research software practice. These include data documentation, container usage, DOIs, code reviews, devops practices (CI/CO), and git repositories.
+  - Designing and developing research software. These projects range wildly from fitting or extracting labels from ML models (e.g., BERT[HuggingFace], Detectron2[pyTorch], Resnet[Keras/Tensorflow]) to website creation using Humanities tools such as Omeka S.
+  - Working as part of the Centre for Digital Inquiry to broaden the usages for Critical Digital Humanities tools, Deep Learning, data analytics and other technologies in the Humanities.
+
+**<span style="font-size:1em;">Centre for Interdisciplinary Methodologies @ University of Warwick</span>** \hfill _Coventry, UK_   
+Senior Academic Technologist \hfill _June 2019 - Oct 2021_
+
+In addition to the Academic Technology work below, I:
+
+ - Managed an Academic Technology team
+ - Consulted on technical and strategic development of the Centre
+ - Integral to the writing of and working on research grants
+
+**<span style="font-size:1em;">Centre for Interdisciplinary Methodologies @ University of Warwick</span>** \hfill _Coventry, UK_   
+Academic Technologist \hfill _Dec 2015 - June 2019_  
+
+Arriving at a growing centre, I wrote software, taught workshops, and research infrastructure in a rich interdisciplinary environment.
+
+ - Collaborated, supported and worked alongside academics from diverse domains including ecology, computer science, sociology, media studies, anthropology and philosophy. 
+ - Designed and taught 100s of hours of workshop and labs (see Teaching, below) to both technical and non-technical audiences from different backgrounds, including many computational techniques including machine learning, inferential statistics and network analysis
+ - Developed and administered 10s of Linux servers providing a research and teaching infrastructure
+ - Wrote research software including data science and visualisation
+
+
+**<span style="font-size:1em;">Department of Psychology @ University of Warwick</span>** \hfill _Coventry, UK_   
+Post-Doctoral Research Fellow \hfill _Oct 2013 - Sept 2016_
+
+I worked alongside Prof. Adam Sanborn and Prof. Neil Stewart to examine how people combine information.
+
+  - Designed, wrote and carried out Psychological experiments
+  - Read cutting edge literature and designed novel hypothesis
+  - Tested hypothesis using Bayesian and inferential statistics with linear and non-linear models
+
+# Awards and Grants
+**<span style="font-size:1em;">Walkability Perception and its Relations to Scenery Elements and Socio-Demographics  (Warwick)</span>** \hfill _£5K_  
+co-Investigator \hfill _2021_  
+
+**<span style="font-size:1em;">Shaping 21st Century AI: Controversy and Closure in Research, Policy and Media (ORA, ESRC)</span>** \hfill _€1.7M_  
+Research Software Engineer \hfill _2021_  
+
+**<span style="font-size:1em;">COVID and the social life of testing (Warwick)</span>** \hfill _£5K_  
+collaborator \hfill _2020_ 
+
+**<span style="font-size:1em;">What Aren’t You Seeing? (Turing Institute)</span>** \hfill _£305K_  
+co-Investigator \hfill _2019_  
+
+**<span style="font-size:1em;">Visual Diagnostics for Markov Chain Monte Carlo – Backfillz.R	(Turing Institute)</span>** \hfill _£53K_  
+co-Investigator \hfill _2018_  
+
+# Teaching
+
+**<span style="font-size:1em;">IM939: Data Science Across Disciplines</span>** \hfill _2020 - June 2022_   
+- Designed and delivered labs, supported student projects \newline
+- Python Notebooks - Pandas, NumPy, SciKit-Learn, Seaborn, Altair\newline
+- Data Wrangling and cleaning, dimension reduction (LDA, PCA, t-SNE) \newline
+- Model fitting and comparison techniques\newline
+**<span style="font-size:1em;">IM931: Interdisciplinary Approaches to Machine Learning</span>** \hfill _2018 - 2021_   
+- Wrote and taught labs using Keras(Tensorflow)\newline
+- Inspired by Chollet's 'Deep Learning with Python'\newline
+- Supported student projects in Python and R (reticulate)\newline
+**<span style="font-size:1em;">IM921: Visualisation</span>** \hfill _2017 - 2021_   
+- Collaboratively designed and taught labs\newline
+- Critically developing visualisations using Python and R\newline
+- Facilitated critical discussion of tools and methods\newline
+**<span style="font-size:1em;">QS903: Advanced Quantitative Research</span>** \hfill _2017 - 2019_   
+- Wrote and delivered supplementary workshops\newline
+- Inferential statistics including GLM and hierarchical models\newline
+- Supported and supervised quantitive dissertations\newline
+**<span style="font-size:1em;">IM913: Spatial Methods and Practice in Urban Science</span>** \hfill _2016 - 2021_   
+- GIS systems (QGIS, ArcGIS, GeoDa)\newline
+- Python and R workflows (inc. geographically weighted regression)\newline
+**<span style="font-size:1em;">IM906: Dissertation</span>** \hfill _2015 - 2021_   
+- Supported and supervised qualitative and quantitative dissertations\newline
+- Topics include geospatial analysis, web scraping, NLP, computer vision models\newline
+**<span style="font-size:1em;">QSTEP Masterclass: Social Media Analysis</span>** \hfill _2019 - 2021_ \newline
+- Designed and delivered session ([materials](https://github.com/jamestripp/qstep-socialmedia)) \newline
+**<span style="font-size:1em;">QSTEP Masterclass: SQL</span>** \hfill _2020 - 2021_ \newline
+- Designed and delivered session ([materials](https://github.com/jamestripp/qstep-workshops))\newline
+**<span style="font-size:1em;">IM904: Digital Objects, Digital Methods</span>** \hfill _2015 - 2021_ \newline
+- Designed novel curriculum including social media analysis, query design and digital methods \newline
+**<span style="font-size:1em;">IM902: Approaches to the Digital</span>** \hfill _2015 - 2021_ \newline
+- Designed novel labs leading critical web art projects \newline
+**<span style="font-size:1em;">IM920: Digital Sociology</span>** \hfill _2016 - 2018_ \newline
+**<span style="font-size:1em;">PS923: Methods and Analysis in Behavioral Science</span>** \hfill _2012 - 2013_ \newline
+- Led and assisted in sessions fitting behavioral models \newline
+**<span style="font-size:1em;">PS113: Statistical Methods in Psychology</span>** \hfill _2010 - 2013_ \newline
+- Led statistical labs using basic frequentist statistics\newline
+
+# Publications
+
+ - Cagatay, T,. Sondag, M., Neil, G., **Tripp, J** (2022). Should We Keep It Real? A Crowdsourcing Study on Realistic
+Analogies in Visualisations for Communicating Disease Spread. _IEEE VIS 2022 conference_. (Submitted)
+ - Sanborn, A. N., Noguchi, T., **Tripp, J**, & Stewart, N. (2020). A dilution effect without dilution: When missing evidence, not non-diagnostic evidence, is judged inaccurately. _Cognition_, 196, 104110.
+ - **Tripp, J.**, & Brown, G. D. (2016). Being paid relatively well most of the time: Negatively skewed payments are more satisfying. _Memory & cognition_, 44(6), 966-973.
+
+# References
+References will be provided upon request.
