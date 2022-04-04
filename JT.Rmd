@@ -103,7 +103,7 @@ co-Investigator \hfill _2018_
 
 # Teaching
 
-**<span style="font-size:1em;">IM939: Data Science Across Disciplines</span>** \hfill _2020 - June 2022_   
+**<span style="font-size:1em;">IM939: Data Science Across Disciplines</span>** \hfill _2020 - June 2021_   
 - Designed and delivered labs, supported student projects \newline
 - Python Notebooks - Pandas, NumPy, SciKit-Learn, Seaborn, Altair\newline
 - Data Wrangling and cleaning, dimension reduction (LDA, PCA, t-SNE) \newline
