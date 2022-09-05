@@ -25,7 +25,7 @@ library(here)
 library(scales)
 ```
 
-I am a technologist and cognitive scientist with a strong background in empirical experimental methods and data analysis. I have taught and used a variety of tools including natural language processing, machine learning, social media analysis, visualisation and geospatial analysis. I work with both the Python and R programming languages, and have recently been using and helping to design cloud services. Throughout my career I have delighted in adopting and understanding new methods and approaches to support others and address both technical and data challenges. I am passionate about the use of technical methods, data analytics and large scale ML techniques for the public good.
+I am a technologist and cognitive scientist with a strong background in empirical experimental methods and data analysis. I have taught and used a variety of tools including natural language processing, machine learning, social media analysis, visualisation and geospatial analysis. I work with both the Python and R programming languages, and have recently been using and helping to design cloud services. Throughout my career I have delighted in adopting and understanding new methods and approaches to support others and address both technical and data challenges. I am passionate about the use of technical methods, data analytics and ML techniques for the public good.
 
 # Relevant Skills
 
@@ -101,6 +101,12 @@ co-Investigator \hfill _2019_
 **<span style="font-size:1em;">Visual Diagnostics for Markov Chain Monte Carlo – Backfillz.R	(Turing Institute)</span>** \hfill _£53K_  
 co-Investigator \hfill _2018_  
 
+# Presentations
+
+ - Camara Menoyo, C., Cagatay, T., **Tripp, J** (2022). Quarto: One library to rule them all? RSE Conference 2022 Workshop.
+ 
+  - **Tripp, J** (2022). Docker and R? Warwick R User Group(WRUG)
+
 # Teaching
 
 **<span style="font-size:1em;">IM939: Data Science Across Disciplines</span>** \hfill _2020 - June 2021_   
@@ -142,7 +148,7 @@ co-Investigator \hfill _2018_
 
 # Publications
 
- - Cagatay, T,. Sondag, M., Neil, G., **Tripp, J** (2022). Should We Keep It Real? A Crowdsourcing Study on Realistic
+ - Cagatay, T., Sondag, M., Neil, G., **Tripp, J** (2022). Should We Keep It Real? A Crowdsourcing Study on Realistic
 Analogies in Visualisations for Communicating Disease Spread. _IEEE VIS 2022 conference_. (Submitted)
  - Sanborn, A. N., Noguchi, T., **Tripp, J**, & Stewart, N. (2020). A dilution effect without dilution: When missing evidence, not non-diagnostic evidence, is judged inaccurately. _Cognition_, 196, 104110.
  - **Tripp, J.**, & Brown, G. D. (2016). Being paid relatively well most of the time: Negatively skewed payments are more satisfying. _Memory & cognition_, 44(6), 966-973.
