@@ -101,12 +101,6 @@ co-Investigator \hfill _2019_
 **<span style="font-size:1em;">Visual Diagnostics for Markov Chain Monte Carlo – Backfillz.R	(Turing Institute)</span>** \hfill _£53K_  
 co-Investigator \hfill _2018_  
 
-# Presentations
-
- - Camara Menoyo, C., Cagatay, T., **Tripp, J** (2022). Quarto: One library to rule them all? RSE Conference 2022 Workshop.
- 
-  - **Tripp, J** (2022). Docker and R? Warwick R User Group(WRUG)
-
 # Teaching
 
 **<span style="font-size:1em;">IM939: Data Science Across Disciplines</span>** \hfill _2020 - June 2021_   
@@ -146,8 +140,10 @@ co-Investigator \hfill _2018_
 **<span style="font-size:1em;">PS113: Statistical Methods in Psychology</span>** \hfill _2010 - 2013_ \newline
 - Led statistical labs using basic frequentist statistics\newline
 
-# Publications
+# Publications and presentations
 
+ - Camara Menoyo, C., Cagatay, T., **Tripp, J** (2022). Quarto: One library to rule them all? RSE Conference 2022 Workshop.
+  - **Tripp, J** (2022). Docker and R? Warwick R User Group(WRUG)
  - Cagatay, T., Sondag, M., Neil, G., **Tripp, J** (2022). Should We Keep It Real? A Crowdsourcing Study on Realistic
 Analogies in Visualisations for Communicating Disease Spread. _IEEE VIS 2022 conference_. (Submitted)
  - Sanborn, A. N., Noguchi, T., **Tripp, J**, & Stewart, N. (2020). A dilution effect without dilution: When missing evidence, not non-diagnostic evidence, is judged inaccurately. _Cognition_, 196, 104110.
