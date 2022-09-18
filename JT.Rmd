@@ -6,6 +6,7 @@ email: "James.Tripp@outlook.com"
 twitter: jamestripp_
 github: jamestripp
 linkedin: jamestripp
+www: jamestripp.net
 headcolor: 414141
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
